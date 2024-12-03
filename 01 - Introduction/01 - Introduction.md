@@ -2,8 +2,6 @@
 
 ## Why Do I Use Neovim?
 
-## Why Do I Use Neovim?
-
 - I find it very satisfying to make things just the way I like
 - It makes my day more fun - both hacking on it and eliminating frustrations
 - I like modal editing - it clicks with my brain.
