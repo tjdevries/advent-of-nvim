@@ -3,10 +3,10 @@
 25 Mini Lessons to get started with Neovim.
 - We'll build a working configuration that resembles kickstart.nvim, but we'll do it completely from scratch.
 
-- Install Neovim and Open (with some reasons why)
-- Tutor / Modal Editing
-- Lua Configuration (Options / Keymaps)
-- Plugin Manager
+- [x] Install Neovim and Open (with some reasons why)
+- [x] Tutor / Modal Editing
+- [x] Lua Configuration (Options / Keymaps)
+- [x] Plugin Manager
 - `tree-sitter`, Colorschemes, and `statusline`
 - LSP (Keymaps and Settings)
 - LSP Installation / Management
