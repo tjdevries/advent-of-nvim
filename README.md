@@ -22,12 +22,12 @@ Check the config in: `./nvim/`
 - [x] Quickfix: `:cdo` and others
 - [x] Terminal (Escape, Floating, Usages)
 - [x] Autocomplete
+- [x] Oil.nvim
+    - Longer video: https://youtu.be/218PFRsvu2o?si=l8UFf2Z7YdUKU0KJ
+- [x] Mouse Menu LOL
 - LSP Installation / Management
 - Snippets
 - text-objects: `mini.*`
 - Tree-sitter: text-objects
 - Language Configuration
 - Clipboard
-- Oil.nvim
-    - Already did a video: https://youtu.be/218PFRsvu2o?si=l8UFf2Z7YdUKU0KJ
-    - Not sure what else to say about it.
